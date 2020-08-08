@@ -95,7 +95,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 <Link to="/about">About</Link>
               </li>
               <li role="menuitem">
-                <Link to="/tags/getting-started/">Getting Started</Link>
+                <Link to="/tags/interview/">Interviews</Link>
               </li>
             </ul>
             {isPost && (
@@ -106,7 +106,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           </SiteNavContent>
         </SiteNavLeft>
         <SiteNavRight>
-          <SocialLinks>
+          {/* <SocialLinks>
             {config.facebook && (
               <a
                 className="social-link-fb"
@@ -130,7 +130,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 <Twitter />
               </a>
             )}
-          </SocialLinks>
+          </SocialLinks> */}
           {config.showSubscribe && (
             <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
           )}
