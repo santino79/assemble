@@ -10,7 +10,7 @@ draft: false
 
 _This interview in the **Analysts Assemble** series is with New Zealand-based BI Data Analyst and Technical Consultant, **Helen Anderson**. I first ran into Helen while she was writing an excellent [series on SQL][1] on Dev.to._
 
-_I&#8217;ve since found her to be one of the most helpful and approachable members of that site and a great proponent of helping encourage everyone in the community. I&#8217;m very pleased to say she&#8217;s agreed to share her story and data journey with us here at Simple Analytical._
+_I&#8217;ve since found her to be one of the most helpful and approachable members of that site and a great proponent of helping encourage everyone in the community. I&#8217;m very pleased to say she&#8217;s agreed to share her story and data journey with us here at Analysts Assemble._
 
 _**Over to Helen&#8230;**_
 
